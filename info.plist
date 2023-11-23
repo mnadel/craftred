@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>org.nadel.craft</string>
+	<string>org.nadel.craftred</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -55,7 +55,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>Craft.do</string>
+	<string>Craftred</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -264,6 +264,6 @@
 	<key>version</key>
 	<string></string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/mnadel/craftred</string>
 </dict>
 </plist>
